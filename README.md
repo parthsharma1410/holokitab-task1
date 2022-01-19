@@ -1,4 +1,4 @@
-# Holokitab
+
 
 This project enables user to login with phone number and otp and select the book of their choice, after authenticating the Activation code entered.
 ## Getting Started with Create React App
